@@ -29,7 +29,7 @@ Let's conjure and create magic together! 🪄🌟
 
 ## 🔮 Mi Arsenal Mágico
 
-- 🪄 **Idiomas**: Python, Java, PHP, JavaScript
+- 🪄 **Lenguajes**: Python, Java, PHP, JavaScript
 - 🪙 **Frameworks**: Django, REST APIs
 - 🌌 **Hechizos Web**: HTML, CSS
 - 📚 **Estudios**: Desentrañando los misterios en la Universidad Politécnica de Madrid
